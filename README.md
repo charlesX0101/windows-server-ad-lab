@@ -1,6 +1,6 @@
 # Windows Server 2022 Active Directory Lab
 
-This lab shows how to install, configure, and secure a Windows Server 2022 instance with Active Directory Domain Services (AD DS). It was built using QEMU and Virt-Manager on a Pop!_OS host machine. I completed all steps manually to mimic a real-world environment. Screenshots and configuration samples are included for verification and documentation.
+This lab shows how to install, configure, and secure a Windows Server 2022 instance with Active Directory Domain Services (AD DS). It was built using QEMU and Virt-Manager on a Linux host machine. I completed all steps manually to mimic a real-world environment. Screenshots and configuration samples are included for verification and documentation.
 
 ---
 
